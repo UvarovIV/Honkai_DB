@@ -1,7 +1,8 @@
-package com.uvaroviv.hsrbdbackend.services;
+package com.uvaroviv.hsrbdbackend.impl;
 
 import com.uvaroviv.hsrbdbackend.repositories.CharacterRepository;
 import com.uvaroviv.hsrbdbackend.entities.Character;
+import com.uvaroviv.hsrbdbackend.services.CharacterService;
 
 import java.util.List;
 
